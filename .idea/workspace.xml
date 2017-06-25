@@ -2,481 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0101/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0102/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0103/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0105/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0106/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0107/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0108/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0109/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0110/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0111/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0114/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0115/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0116/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0117/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0118/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0119/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0121/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0122/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0123/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0125/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0126/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0127/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0128/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0129/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0130/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0131/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0132/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0133/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0134/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0135/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0136/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0137/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0138/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0139/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0140/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0201/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0202/Solution$Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0202/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0204/Solution$Man.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0204/Solution$Woman.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0204/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0205/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0207/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0208/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0208/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0209/Solution$Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0209/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0210/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0211/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0212/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0212/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0213/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0213/Solution$Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0213/Solution$Fish.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0213/Solution$Woman.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0213/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0214/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0216/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0217/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0218/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0219/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0301/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0302/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0303/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0304/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0305/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0306/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0307/Solution$Protoss.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0307/Solution$Terran.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0307/Solution$Zerg.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0307/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0308/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0309/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0311/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0312/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0313/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0314/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Solution$Blue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Solution$Green.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Solution$Indigo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Solution$Orange.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Solution$Red.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Solution$Violet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Solution$Yellow.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0316/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0317/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0318/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0319/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0320/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0322/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0324/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0325/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0401/Solution$Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0401/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0402/Solution$Apple.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0402/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0403/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0404/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0405/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0406/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0407/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0407/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0408/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0409/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0410/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0411/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0412/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0413/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0414/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0415/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0416/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0417/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0418/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0419/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0420/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0421/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0422/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0423/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0424/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0425/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0426/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0427/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0428/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0429/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0430/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0431/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0432/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0433/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0434/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0435/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0436/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0437/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0438/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0439/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0440/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0441/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0442/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0443/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0501/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0502/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0503/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0504/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0504/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0505/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0505/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0506/Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0507/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0508/Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0509/Friend.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0510/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0511/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0512/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0513/Rectangle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0514/Solution$Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0514/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0515/Person.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0516/Friend.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0517/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0518/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0519/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0520/Rectangle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0521/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0522/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0523/Circle$Color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0523/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0524/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0525/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0525/Solution$Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0525/Solution$Duck.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0525/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0526/Solution$Man.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0526/Solution$Woman.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0526/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0527/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0527/Solution$Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0527/Solution$Mouse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0527/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0528/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0529/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0601/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0602/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0602/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0603/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0603/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0603/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0604/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0605/Solution$Body.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0605/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0606/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0607/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0608/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0609/Util.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0610/ConsoleReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0611/StringHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0612/Calculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0613/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0613/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0614/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0615/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0616/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0617/Solution$Idea.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0617/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0618/Solution$KissMyShinyMetalAss.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0618/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0619/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0619/Solution$Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0619/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0701/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0702/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0703/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0704/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0705/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0706/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0707/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0708/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0709/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0710/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0711/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0712/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0713/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0714/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0715/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0716/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0717/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0718/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0719/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0720/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0721/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0722/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0723/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0724/Solution$Human.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0724/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0725/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0801/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0802/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0803/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0803/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0804/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0805/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0806/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0807/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0808/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0809/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0810/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0811/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0812/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0813/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0814/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0815/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0816/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0817/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0818/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0819/Solution$Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0819/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/Quest.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0101/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0102/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0103/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0105/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0106/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0107/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0108/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0109/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0110/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0111/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0114/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0115/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0116/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0117/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0118/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0119/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0121/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0122/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0123/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0125/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0126/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0127/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0128/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0129/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0130/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0131/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0132/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0133/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0134/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0135/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0136/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0137/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0138/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0139/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task01/task0140/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0201/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0202/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0204/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0205/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0207/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0208/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0209/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0210/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0211/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0212/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0213/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0214/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0216/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0217/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0218/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task02/task0219/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0301/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0302/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0303/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0304/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0305/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0306/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0307/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0308/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0309/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0311/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0312/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0313/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0314/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0315/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0316/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0317/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0318/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0319/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0320/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0322/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0324/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task03/task0325/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0401/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0402/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0403/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0404/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0405/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0406/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0407/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0408/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0409/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0410/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0411/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0412/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0413/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0414/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0415/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0416/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0417/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0418/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0419/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0420/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0421/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0422/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0423/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0424/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0425/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0426/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0427/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0428/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0429/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0430/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0431/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0432/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0433/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0434/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0435/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0436/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0437/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0438/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0439/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0440/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0441/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0442/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task04/task0443/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0501/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0502/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0503/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0504/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0505/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0506/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0507/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0508/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0509/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0510/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0511/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0512/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0513/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0514/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0515/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0516/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0517/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0518/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0519/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0520/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0521/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0522/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0523/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0524/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0525/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0526/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0527/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0528/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task05/task0529/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0601/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0602/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0603/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0604/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0605/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0606/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0607/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0608/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0609/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0610/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0611/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0612/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0613/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0614/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0615/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0616/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0617/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0618/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task06/task0619/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0701/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0702/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0703/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0704/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0705/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0706/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0707/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0708/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0709/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0710/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0711/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0712/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0713/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0714/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0715/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0716/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0717/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0718/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0719/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0720/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0721/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0722/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0723/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0724/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task07/task0725/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0801/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0802/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0803/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0804/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0805/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0806/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0807/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0808/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0809/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0810/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0811/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0812/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0813/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0814/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0815/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0816/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0817/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0818/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0819/Условие.jrtc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/Quest.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/Quest.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/Quest.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/5.OnlineInternship/Internship.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushTasks.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
-    <ignored mask=".idea" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -496,8 +28,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0820/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+            <state relative-caret-position="210">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -606,8 +138,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
-    <option name="y" value="36" />
+    <option name="x" value="1" />
+    <option name="y" value="24" />
     <option name="width" value="1680" />
     <option name="height" value="971" />
   </component>
@@ -727,7 +259,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.TFS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -1301,7 +833,7 @@
       <workItem from="1498304317880" duration="7554000" />
       <workItem from="1498329505659" duration="10343000" />
       <workItem from="1498394331046" duration="2095000" />
-      <workItem from="1498396568286" duration="1939000" />
+      <workItem from="1498396568286" duration="2426000" />
     </task>
     <task id="LOCAL-00001" summary="Comit JavaRush">
       <created>1498394949582</created>
@@ -1366,20 +898,28 @@
       <option name="project" value="LOCAL" />
       <updated>1498398556922</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Comit JavaRush">
+      <created>1498398717672</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1498398717672</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144937000" />
+    <option name="totallyTimeSpent" value="145424000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="36" width="1680" height="971" extended-state="0" />
+    <frame x="1" y="24" width="1680" height="971" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.497558" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992035" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1398,7 +938,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3526735" sideWeight="0.43711844" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992035" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2741148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2741148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1444,6 +984,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1655,6 +1221,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="211" column="25" lean-forward="false" selection-start-line="206" selection-start-column="7" selection-end-line="215" selection-end-column="14" />
+          <folding>
+            <element signature="e#8033#8034#0" expanded="false" />
+            <element signature="e#8081#8082#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1830,8 +1400,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0820/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        <state relative-caret-position="210">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
