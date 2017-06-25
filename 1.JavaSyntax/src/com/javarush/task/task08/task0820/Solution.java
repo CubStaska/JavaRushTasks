@@ -45,5 +45,10 @@ public class Solution {
         //напишите тут ваш код
     }
 
-    //напишите тут ваш код
+    public static class Cat{
+
+    }
+    public static class Dog{
+        
+    }
 }
