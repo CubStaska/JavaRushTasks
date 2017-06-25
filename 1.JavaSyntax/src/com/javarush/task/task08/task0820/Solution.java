@@ -1,7 +1,7 @@
 package com.javarush.task.task08.task0820;
 
-import java.util.HashSet;
-import java.util.Set;
+import javax.swing.text.html.HTMLDocument;
+import java.util.*;
 
 /* 
 Множество всех животных
@@ -21,28 +21,37 @@ public class Solution {
 
     public static Set<Cat> createCats() {
         HashSet<Cat> result = new HashSet<Cat>();
-
-        //напишите тут ваш код
+        for (int i = 0; i < 4; i++) {
+            result.add(new Cat());
+        }
 
         return result;
     }
 
     public static Set<Dog> createDogs() {
-        //напишите тут ваш код
-        return null;
+        HashSet<Dog> result = new HashSet<Dog>();
+        for (int i = 0; i < 3; i++) {
+            result.add(new Dog());
+        }
+        return result;
     }
 
     public static Set<Object> join(Set<Cat> cats, Set<Dog> dogs) {
-        //напишите тут ваш код
-        return null;
+        HashSet<Object> allDogCat = new HashSet<>();
+        allDogCat.addAll(cats);
+        allDogCat.addAll(dogs);
+        return allDogCat;
     }
 
     public static void removeCats(Set<Object> pets, Set<Cat> cats) {
-        //напишите тут ваш код
+            pets.removeAll(cats);
     }
 
     public static void printPets(Set<Object> pets) {
-        //напишите тут ваш код
+        Iterator iterator = pets.iterator();
+        while (iterator.hasNext()){
+            System.out.println(iterator.next());
+        }
     }
 
     public static class Cat{
