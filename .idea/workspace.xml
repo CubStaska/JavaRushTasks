@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java" />
     </list>
     <ignored path="JavaRushTasks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,13 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Валидация" pinned="false" current-in-tab="true">
+        <entry file="file:///var/folders/h2/cdrgx5p97hz27121ndnh_slm0000gn/T/Валидация">
+          <provider selected="true" editor-type-id="EditorTypeId">
+            <state />
           </provider>
         </entry>
       </file>
@@ -68,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0725/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0801/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0802/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0803/Solution.java" />
@@ -119,6 +126,7 @@
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0920/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0921/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0922/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java" />
       </list>
     </option>
   </component>
@@ -310,27 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task09.task0913.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task09.task0913.Solution" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="1.JavaSyntax" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="false" name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -399,6 +387,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task09.task0922.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="1.JavaSyntax" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task09.task0923.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task09.task0923.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -800,19 +808,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Solution (5)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Solution (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Solution (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Solution (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Solution (5)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Solution (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Solution (5)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Solution (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -857,7 +865,7 @@
       <workItem from="1498430067155" duration="181000" />
       <workItem from="1498431275921" duration="9364000" />
       <workItem from="1498470458385" duration="4288000" />
-      <workItem from="1498488415663" duration="21000" />
+      <workItem from="1498488415663" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="Comit JavaRush">
       <created>1498394949582</created>
@@ -1034,45 +1042,52 @@
       <option name="project" value="LOCAL" />
       <updated>1498475064450</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Comit JavaRush">
+      <created>1498488454904</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1498488454904</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182231000" />
+    <option name="totallyTimeSpent" value="183611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="971" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.507326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17292377" sideWeight="0.43711844" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2863248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26848692" sideWeight="0.47097626" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287827" sideWeight="0.48680738" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17292377" sideWeight="0.43711844" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2863248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.497558" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287827" sideWeight="0.48680738" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1173,7 +1188,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="32" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1458,11 +1473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/h2/cdrgx5p97hz27121ndnh_slm0000gn/T/Валидация">
-      <provider selected="true" editor-type-id="EditorTypeId">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0922/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1482,10 +1492,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/h2/cdrgx5p97hz27121ndnh_slm0000gn/T/Валидация">
+      <provider selected="true" editor-type-id="EditorTypeId">
+        <state />
       </provider>
     </entry>
   </component>

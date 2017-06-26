@@ -2,6 +2,7 @@ package com.javarush.task.task09.task0923;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 /* 
 Гласные и согласные
@@ -11,7 +12,20 @@ public class Solution {
     public static char[] vowels = new char[]{'а', 'я', 'у', 'ю', 'и', 'ы', 'э', 'е', 'о', 'ё'};
 
     public static void main(String[] args) throws Exception {
-        //напишите тут ваш код
+        Scanner reader = new Scanner(System.in);
+        String readline = reader.nextLine();
+        String glas="", soglas="";
+        for (int i = 0; i < readline.length(); i++) {
+            if (readline.charAt(i) !=32) {
+                if (isVowel(readline.charAt(i))) {
+                    glas += String.valueOf(readline.charAt(i)) + " ";
+                } else {
+                    soglas += String.valueOf(readline.charAt(i)) + " ";
+                }
+            }
+        }
+        System.out.println(glas);
+        System.out.println(soglas);
     }
 
     // метод проверяет, гласная ли буква
