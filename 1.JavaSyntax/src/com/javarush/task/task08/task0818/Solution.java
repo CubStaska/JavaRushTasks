@@ -1,9 +1,6 @@
 package com.javarush.task.task08.task0818;
 
-import sun.awt.SunHints;
-
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 /* 

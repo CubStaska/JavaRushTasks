@@ -4,8 +4,8 @@ package com.javarush.task.task04.task0413;
 День недели
 */
 
-import java.io.*;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
 public class Solution {
     public static void main(String[] args) throws Exception {

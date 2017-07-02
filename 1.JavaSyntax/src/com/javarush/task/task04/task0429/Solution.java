@@ -4,8 +4,8 @@ package com.javarush.task.task04.task0429;
 Положительные и отрицательные числа
 */
 
-import java.io.*;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
 public class Solution {
 

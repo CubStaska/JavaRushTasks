@@ -1,8 +1,6 @@
 package com.javarush.task.task07.task0701;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 /* 

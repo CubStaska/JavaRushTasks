@@ -1,9 +1,7 @@
 package com.javarush.task.task08.task0813;
 
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.HashSet;
-import java.util.Set;
 
 /* 
 20 слов на букву «Л»

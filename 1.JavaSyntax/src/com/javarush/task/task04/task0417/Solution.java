@@ -4,7 +4,6 @@ package com.javarush.task.task04.task0417;
 Существует ли пара?
 */
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Solution {

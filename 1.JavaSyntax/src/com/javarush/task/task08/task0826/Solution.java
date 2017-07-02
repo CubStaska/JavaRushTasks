@@ -3,8 +3,6 @@ package com.javarush.task.task08.task0826;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 
 /* 
 Пять победителей

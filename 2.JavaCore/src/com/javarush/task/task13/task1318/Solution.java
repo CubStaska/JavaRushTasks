@@ -1,7 +1,9 @@
 package com.javarush.task.task13.task1318;
 
-import java.io.*;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 /* 
 Чтение файла

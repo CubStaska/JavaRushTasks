@@ -5,7 +5,6 @@ package com.javarush.task.task04.task0442;
 Суммирование
 */
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Solution {

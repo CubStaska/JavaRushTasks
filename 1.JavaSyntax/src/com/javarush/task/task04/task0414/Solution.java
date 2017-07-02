@@ -4,7 +4,6 @@ package com.javarush.task.task04.task0414;
 Количество дней в году
 */
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Solution {

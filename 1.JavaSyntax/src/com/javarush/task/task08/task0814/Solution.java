@@ -2,7 +2,6 @@ package com.javarush.task.task08.task0814;
 
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.Set;
 
 /* 
 Больше 10? Вы нам не подходите

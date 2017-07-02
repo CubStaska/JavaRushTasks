@@ -1,6 +1,5 @@
 package com.javarush.task.task03.task0325;
 
-import java.io.*;
 import java.util.Scanner;
 
 /* 

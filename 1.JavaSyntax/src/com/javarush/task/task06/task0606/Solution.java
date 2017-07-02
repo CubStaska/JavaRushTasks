@@ -1,6 +1,6 @@
 package com.javarush.task.task06.task0606;
 
-import java.io.*;
+import java.io.IOException;
 import java.util.Scanner;
 
 /* 

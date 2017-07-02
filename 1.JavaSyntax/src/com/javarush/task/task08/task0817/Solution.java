@@ -1,6 +1,8 @@
 package com.javarush.task.task08.task0817;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
 
 /* 
 Нам повторы не нужны

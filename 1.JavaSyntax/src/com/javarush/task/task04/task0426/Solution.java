@@ -4,7 +4,6 @@ package com.javarush.task.task04.task0426;
 Ярлыки и числа
 */
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Solution {

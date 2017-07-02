@@ -2,7 +2,6 @@ package com.javarush.task.task05.task0529;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 /* 
 Консоль-копилка

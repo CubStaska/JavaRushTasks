@@ -5,7 +5,6 @@ package com.javarush.task.task08.task0824;
 */
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Solution {
     public static void main(String[] args) {

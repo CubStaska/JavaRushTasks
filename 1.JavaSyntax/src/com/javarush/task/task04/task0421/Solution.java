@@ -4,7 +4,6 @@ package com.javarush.task.task04.task0421;
 Настя или Настя?
 */
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Solution {

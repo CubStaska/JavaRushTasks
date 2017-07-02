@@ -1,7 +1,8 @@
 package com.javarush.task.task08.task0820;
 
-import javax.swing.text.html.HTMLDocument;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
 
 /* 
 Множество всех животных

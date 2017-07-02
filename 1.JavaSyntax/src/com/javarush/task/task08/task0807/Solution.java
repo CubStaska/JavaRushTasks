@@ -1,6 +1,7 @@
 package com.javarush.task.task08.task0807;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.LinkedList;
 
 /* 
 LinkedList и ArrayList

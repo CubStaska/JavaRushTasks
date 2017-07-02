@@ -4,7 +4,6 @@ package com.javarush.task.task04.task0412;
 Положительное и отрицательное число
 */
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Solution {

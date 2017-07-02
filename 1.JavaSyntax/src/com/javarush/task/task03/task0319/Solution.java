@@ -4,7 +4,6 @@ package com.javarush.task.task03.task0319;
 Предсказание на будущее
 */
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Solution {

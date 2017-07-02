@@ -9,7 +9,6 @@ package com.javarush.task.task04.task0425;
 для четвертой четверти a>0 и b<0.
 */
 
-import java.io.*;
 import java.util.Scanner;
 
 public class Solution {

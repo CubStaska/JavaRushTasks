@@ -1,8 +1,7 @@
 package com.javarush.task.task08.task0812;
 
-import java.io.*;
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 /* 
