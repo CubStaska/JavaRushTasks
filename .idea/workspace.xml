@@ -3,78 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0318/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0318/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0319/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0319/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0320/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0320/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0322/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0322/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0325/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task03/task0325/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0412/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0412/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0413/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0413/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0414/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0414/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0415/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0415/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0416/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0416/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0417/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0417/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0418/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0418/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0421/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0421/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0422/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0422/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0423/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0423/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0425/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0425/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0426/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0426/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0427/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0427/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0428/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0428/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0429/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0429/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0430/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0430/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0431/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0431/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0432/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0432/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0433/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0433/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0434/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0434/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0436/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0436/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0439/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0439/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0442/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0442/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0443/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task04/task0443/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task05/task0529/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task05/task0529/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task05/task0530/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task05/task0530/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task05/task0532/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task05/task0532/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0605/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0605/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0606/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0606/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0610/ConsoleReader.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0610/ConsoleReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0701/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0701/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0702/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0702/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0703/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0703/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0704/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0704/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0705/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0705/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0706/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0706/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0708/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0708/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0709/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0709/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0710/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0710/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0711/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0711/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0712/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0712/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0713/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0713/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0714/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0714/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0715/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0715/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0717/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0717/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0718/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0718/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0801/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0801/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0807/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0807/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0809/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0809/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0810/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0810/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0812/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0812/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0813/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0813/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0814/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0814/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0815/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0815/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0817/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0817/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0818/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0818/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0820/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0820/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0822/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0822/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0824/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0824/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0826/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0826/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0828/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0828/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0921/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0921/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1019/Solution.java" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1019/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task12/task1233/Solution.java" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task12/task1233/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1318/Solution.java" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task13/task1318/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
     </list>
     <ignored path="JavaRushTasks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -300,170 +228,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task13" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task1326" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task13" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.JavaSyntax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.JavaSyntax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaRushTasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.JavaSyntax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1062,7 +826,7 @@
       <workItem from="1498948969665" duration="699000" />
       <workItem from="1498981460743" duration="2670000" />
       <workItem from="1498987973854" duration="282000" />
-      <workItem from="1498989130918" duration="4076000" />
+      <workItem from="1498989130918" duration="4112000" />
     </task>
     <task id="LOCAL-00001" summary="Comit JavaRush">
       <created>1498394949582</created>
@@ -1379,11 +1143,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498987755087</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Comit JavaRush">
+      <created>1498993287642</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1498993287642</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249367000" />
+    <option name="totallyTimeSpent" value="249403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="276" y="23" width="1342" height="924" extended-state="0" />
@@ -1411,7 +1182,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.43711844" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1923077" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26307693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26307693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
