@@ -13,45 +13,38 @@ public class Solution {
         Person person = null;
         String key = null;
 
-        while ((key = reader.readLine()) != null){
-            if (key.equals("user")){
+        while ((key = reader.readLine()) != null) {
+            if (key.equals("user")) {
                 person = new Person.User();
                 doWork(person);
-            }else if(key.equals("loser")){
+            } else if (key.equals("loser")) {
                 person = new Person.Loser();
                 doWork(person);
-            }else if(key.equals("coder")){
+            } else if (key.equals("coder")) {
                 person = new Person.Coder();
                 doWork(person);
-            }else if(key.equals("proger")){
+            } else if (key.equals("proger")) {
                 person = new Person.Proger();
                 doWork(person);
-            }else {
+            } else {
                 break;
             }
         }
 
-
-
-
-
-
-
-
     }
 
     public static void doWork(Person person) {
-       if (person instanceof Person.User){
-           ((Person.User) person).live();
-       }
-       if (person instanceof Person.Loser){
-           ((Person.Loser) person).doNothing();
-       }
-       if (person instanceof Person.Proger){
-           ((Person.Proger) person).enjoy();
-       }
-       if (person instanceof Person.Coder){
-           ((Person.Coder) person).coding();
-       }
+        if (person instanceof Person.User) {
+            ((Person.User) person).live();
+        }
+        if (person instanceof Person.Loser) {
+            ((Person.Loser) person).doNothing();
+        }
+        if (person instanceof Person.Proger) {
+            ((Person.Proger) person).enjoy();
+        }
+        if (person instanceof Person.Coder) {
+            ((Person.Coder) person).coding();
+        }
     }
 }
