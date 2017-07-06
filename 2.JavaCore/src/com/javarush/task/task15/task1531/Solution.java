@@ -21,8 +21,7 @@ public class Solution {
     }
 
     public static String factorial(int n) {
-      BigInteger result = new BigInteger(String.valueOf(1));
-
+      BigInteger result = BigInteger.valueOf(1);
         if (n < 0){
             return String.valueOf(0);
        }
