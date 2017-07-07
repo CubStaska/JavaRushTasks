@@ -8,8 +8,32 @@ public class Solution {
         new Thread(new CountUpRunnable(), "Увеличиваем").start();
     }
 
-    public static class CountUpRunnable {
+    public static class CountUpRunnable implements Runnable {
+        private int countIndexDown = 1;
+
+        @Override
+        public void run() {
+            try {
+                while (true) {
+                    System.out.println(toString());
+                    countIndexDown++;
+
+                    if (countIndexDown > Solution.number) {
+                        Thread.sleep(500);
+                        return;
+                    }
+                    Thread.sleep(500);
+                }
+            } catch (InterruptedException e) {
+
+            }
+        }
         //Add your code here - добавь код тут
+
+        @Override
+        public String toString() {
+            return Thread.currentThread().getName() + ": " + countIndexDown;
+        }
     }
 
 
