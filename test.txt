@@ -1,8 +1,8 @@
-abcdef
-bgdfgh
-cdfhfdh
-ddfhfdh
-edfhfdh
-fdfhfdh
-efdhdfh
-gdfhdfh
+ab cd ef
+bgd fgh
+c dfhf dh
+dd fhfdh
+e dfhf dh
+fdf hf dh
+efd hdfh
+gd fh dfh
