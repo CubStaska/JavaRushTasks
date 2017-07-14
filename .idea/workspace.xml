@@ -1015,14 +1015,7 @@
       <workItem from="1499713330679" duration="708000" />
       <workItem from="1499719542740" duration="40057000" />
       <workItem from="1499852966802" duration="6699000" />
-      <workItem from="1499959947211" duration="23896000" />
-    </task>
-    <task id="LOCAL-00032" summary="Comit JavaRush">
-      <created>1498821506006</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1498821506006</updated>
+      <workItem from="1499959947211" duration="23914000" />
     </task>
     <task id="LOCAL-00033" summary="Comit JavaRush">
       <created>1498924254022</created>
@@ -1360,11 +1353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500057426862</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Comit JavaRush">
+      <created>1500057436942</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1500057436942</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="449302000" />
+    <option name="totallyTimeSpent" value="449320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1680" height="971" extended-state="0" />
