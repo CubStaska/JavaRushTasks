@@ -8,7 +8,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
-import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Locale;
 
@@ -22,22 +21,22 @@ public class Solution {
         String price = args[2];
         String quantity = args[3];
         String id = "";
-        String str="";
+        String str = "";
         ArrayList<String> pricelist = new ArrayList<>();
-        while ((str = readfile.readLine()) != null){
+        while ((str = readfile.readLine()) != null) {
             pricelist.add(str);
             id = str.substring(0, 8);
 
         }
         readfile.close();
 
-        String s = String.format(Locale.ENGLISH,"%-8d%-30.30s%-8.2f%-4s", (Integer.parseInt(id))+1, productName, Double.parseDouble(price), quantity.trim());
+        String s = String.format(Locale.ENGLISH, "%-8d%-30.30s%-8.2f%-4s", (Integer.parseInt(id)) + 1, productName, Double.parseDouble(price), quantity.trim());
 
         if (args[0].equals("-c")) {
             pricelist.add(s);
-           filewrite = new FileWriter(filename);
-            for (String pr: pricelist) {
-                filewrite.write(pr+"\n");
+            filewrite = new FileWriter(filename);
+            for (String pr : pricelist) {
+                filewrite.write(pr + "\n");
             }
 
         }
